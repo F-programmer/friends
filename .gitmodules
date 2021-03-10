@@ -1,0 +1,6 @@
+[submodule "back"]
+	path = back
+	url = https://github.com/F-programmer/friends-back.git
+[submodule "front"]
+	path = front
+	url = https://github.com/F-programmer/friends-front.git
